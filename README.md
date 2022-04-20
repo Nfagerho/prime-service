@@ -6,11 +6,11 @@ Very handy indeed!
 
 #### How to build
 
-Run this command from the root and /client folders:
+Run this command in the root and /client folders:
 ```
 npm install
 ```
-And this command from the root:
+And this command in the root:
 
 ```
 npm run dev
